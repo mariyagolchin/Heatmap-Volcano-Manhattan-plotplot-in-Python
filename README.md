@@ -1,8 +1,7 @@
 # Heatmap and Volcano and Manhattan plot in Python
 
 
-
-# What is heatmap?Permalink
+# What is heatmap?
 Continuous colormap where each color represents a specific set of values
 Great way to visualize and identify statistically significant gene expression changes among hundreds to thousands of genes from different treatment conditions
 https://www.reneshbedre.com/blog/heatmap-python.html
