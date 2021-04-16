@@ -19,3 +19,15 @@ In the Manhattan plot, X- and Y-axis represents the SNPs on the chromosomes and 
 It is a good way to visualize thousands to millions of SNPs o genome-scale. The lowest the p value (higher −log10[p]), highest is the association of a given SNP with trait or disease.
 Manhattan plot can also used for visualizing the SNP markers with Fst values (measures for genetic differentiation).
 https://www.reneshbedre.com/blog/manhattan-plot.html
+
+#Correlation analysis in Python
+ Renesh Bedre     2 minute read
+ Page Content
+What is Correlation?
+Calculating correlation in Python
+What is Correlation?Permalink
+Correlation used to identify the association between variables
+Correlation of two variables (pairwise) has values between -1 (negative correlation) and 1 (positive correlation)
+Statistical tests to measure correlation: Pearson, Spearman rank, Kendall Tau
+In bioinformatics, correlation can be used to identify coregulated gene expression, check the quality of biological replicates, etc.
+https://www.reneshbedre.com/blog/correlation-analysis.html
